@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Helen Sahith Sadhe</h1>
 <h3 align="center">A passionate software developer</h3>
 
+<div align="center">
+   <img src='https://github.com/helensahith/helensahith/blob/main/prof.gif' width="300" height="300"  align='center' top='0'>  
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helensahith&label=Profile%20views&color=0e75b6&style=flat" alt="helensahith" /> </p>
 
 - 🔭 I’m currently working on **real-time hand sign detection.**
